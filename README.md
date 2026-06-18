@@ -12,7 +12,8 @@
 
 ## demo 影片
 
-[![demo影片請開起字幕](<img width="960" height="564" alt="image" src="https://github.com/user-attachments/assets/46adfc27-383c-47d5-b322-d9fc6bceb114" />)](https://youtu.be/wAFq3Y0p8aU?si=9b7KTXv5biivXU6x)
+[![demo影片請開起字幕](<img width="960" height="564" alt="image" src="https://github.com/user-attachments/assets/89c294f3-2b10-4d65-805f-d1fe0bc98295" />
+)](https://youtu.be/wAFq3Y0p8aU?si=9b7KTXv5biivXU6x)
 
 ---
 
