@@ -10,6 +10,12 @@
 
 ---
 
+##demo 影片
+
+https://youtu.be/wAFq3Y0p8aU?si=S-3mlfmGuu6fodCz
+
+---
+
 ## 一、開發環境
 
 | 項目        | 內容                         |
