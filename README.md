@@ -12,8 +12,7 @@
 
 ## demo 影片
 
-[![demo影片請開起字幕](https://youtu.be/wAFq3Y0p8aU?si=4614uJxj-sy8A5fX)](https://youtu.be/wAFq3Y0p8aU?si=9b7KTXv5biivXU6x)
-
+https://youtu.be/wAFq3Y0p8aU?si=4614uJxj-sy8A5fX
 ---
 
 ## 一、開發環境
