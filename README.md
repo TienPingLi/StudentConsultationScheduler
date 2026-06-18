@@ -40,35 +40,42 @@
 
 ### 1. 登入畫面
 
-![登入畫面](docs/screenshots/01_login.png)
+<img width="316" height="249" alt="image" src="https://github.com/user-attachments/assets/c88063c0-608a-45fa-8388-f28eb9ef6bb7" />
 
 ### 2. 可視化課表主畫面
 
-![可視化課表主畫面](docs/screenshots/02_main_schedule.png)
+<img width="960" height="564" alt="image" src="https://github.com/user-attachments/assets/46adfc27-383c-47d5-b322-d9fc6bceb114" />
+
 
 ### 3. 學生管理畫面
 
-![學生管理畫面](docs/screenshots/03_student_manage.png)
+<img width="841" height="519" alt="image" src="https://github.com/user-attachments/assets/0954deaa-dacf-4f33-a241-fe3664516c8a" />
+
 
 ### 4. 老師管理畫面
 
-![老師管理畫面](docs/screenshots/04_teacher_manage.png)
+<img width="871" height="542" alt="image" src="https://github.com/user-attachments/assets/62ee8323-cb0d-4f1c-9547-b41eda0377f9" />
+
 
 ### 5. 老師可諮詢時間設定畫面
 
-![老師可諮詢時間設定畫面](docs/screenshots/05_availability_editor.png)
+<img width="691" height="519" alt="image" src="https://github.com/user-attachments/assets/abd6e372-4b38-4597-9d91-145573caeba4" />
+
 
 ### 6. 新增預約畫面
 
-![新增預約畫面](docs/screenshots/06_add_appointment.png)
+<img width="421" height="493" alt="image" src="https://github.com/user-attachments/assets/3394732c-432b-49b8-936e-1ddcb7ccfc5b" />
+
 
 ### 7. 預約詳細資訊畫面
 
-![預約詳細資訊畫面](docs/screenshots/07_appointment_detail.png)
+<img width="466" height="444" alt="image" src="https://github.com/user-attachments/assets/f0cbdf30-417a-4754-b135-db633468c66d" />
+
 
 ### 8. 小遊戲中心
 
-![小遊戲中心](docs/screenshots/08_game_center.png)
+<img width="586" height="384" alt="image" src="https://github.com/user-attachments/assets/95fcb1be-7c52-4f2f-a7c0-ed84c69d3c43" />
+
 
 ---
 
