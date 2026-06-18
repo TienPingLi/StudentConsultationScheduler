@@ -10,9 +10,9 @@
 
 ---
 
-##demo 影片
+## demo 影片
 
-https://youtu.be/wAFq3Y0p8aU?si=S-3mlfmGuu6fodCz
+[![demo影片請開起字幕](<img width="960" height="564" alt="image" src="https://github.com/user-attachments/assets/46adfc27-383c-47d5-b322-d9fc6bceb114" />)](https://youtu.be/wAFq3Y0p8aU?si=9b7KTXv5biivXU6x)
 
 ---
 
