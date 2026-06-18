@@ -1,0 +1,21 @@
+# Visual Studio temporary files
+.vs/
+*.user
+*.suo
+*.cache
+*.log
+
+# Build output
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+
+# LocalDB files generated at runtime
+**/App_Data/*.mdf
+**/App_Data/*.ldf
+**/Logs/
+
+# NuGet
+packages/
+*.nupkg
